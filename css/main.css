@@ -1,5 +1,5 @@
 body{
-	width:75%;
+	width:1100px;
 	margin: 10px auto;
 	padding: 0;
 	background: #1062bc;
@@ -78,7 +78,7 @@ background-image: linear-gradient(to right bottom, #536d89, #637c99, #748ba9, #8
 /*height: 160px;*/
 }
 .time{
-	flex-basis: 361.2px;
+	flex-basis: 350px;
 }
 /*.chart-line img{
 	width: 150px;
